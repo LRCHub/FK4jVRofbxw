@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Hit me",
+  "base_artist": "Ciely",
+  "createdAt": "2026-02-13T15:45:16.195425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hit Me Like That Snare",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/01_Hit_Me_Like_That_Snare_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hit Me Like That Snare",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/02_Hit_Me_Like_That_Snare_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hit Me",
+      "artist": "Klaypex",
+      "has_synced": false,
+      "path": "select/03_Hit_Me_Klaypex.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Hit Me Like a Hammer",
+      "artist": "Huey Lewis & The News",
+      "has_synced": true,
+      "path": "select/04_It_Hit_Me_Like_a_Hammer_Huey_Lewis_&_The_News.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "He Hit Me (It Felt Like a Kiss)",
+      "artist": "The Crystals",
+      "has_synced": true,
+      "path": "select/05_He_Hit_Me_(It_Felt_Like_a_Kiss)_The_Crystals.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "He Hit Me (It Felt Like a Kiss)",
+      "artist": "The Crystals",
+      "has_synced": true,
+      "path": "select/06_He_Hit_Me_(It_Felt_Like_a_Kiss)_The_Crystals.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hit Me Where It Hurts",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/07_Hit_Me_Where_It_Hurts_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Katherine Hit Me",
+      "artist": "Franz Ferdinand",
+      "has_synced": false,
+      "path": "select/08_Katherine_Hit_Me_Franz_Ferdinand.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hit Me",
+      "artist": "Dylan Brady",
+      "has_synced": true,
+      "path": "select/09_Hit_Me_Dylan_Brady.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "He Hit Me",
+      "artist": "Grizzly Bear",
+      "has_synced": true,
+      "path": "select/10_He_Hit_Me_Grizzly_Bear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "He Hit Me",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/11_He_Hit_Me_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hit Me Where It Hurts (feat. Chino Moreno) [Toro y Moi Remix]",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/12_Hit_Me_Where_It_Hurts_(feat._Chino_Moreno)_[Toro_y_Moi_Remix]_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hit Me Where It Hurts (Toro y Moi remix)",
+      "artist": "Caroline Polachek feat․ Chino Moreno",
+      "has_synced": true,
+      "path": "select/13_Hit_Me_Where_It_Hurts_(Toro_y_Moi_remix)_Caroline_Polachek_feat._Chino_Moreno.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hit Me Where It Hurts (instrumental)",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/14_Hit_Me_Where_It_Hurts_(instrumental)_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Hit Me with Love",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/15_Don't_Hit_Me_with_Love_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don’t Hit Me With Love",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/16_Don’t_Hit_Me_With_Love_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hit Me With Your Best Shot",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/17_Hit_Me_With_Your_Best_Shot_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hit Me With Your Best Shot",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/18_Hit_Me_With_Your_Best_Shot_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hit Me With Your Best Shot",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/19_Hit_Me_With_Your_Best_Shot_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Hit Me With Your Best Shot",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/20_Hit_Me_With_Your_Best_Shot_Pat_Benatar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hit me (feat. issa)",
+      "artist": "Ciely",
+      "has_synced": false,
+      "path": "select/pl_01_Hit_me_(feat._issa)_Ciely.txt"
+    }
+  ]
+}
